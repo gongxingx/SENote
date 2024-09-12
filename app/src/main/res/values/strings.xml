@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">SENote</string>
+
+    <string name="settings_upload">upload</string>
+    <string name="settings_download">download</string>
+    <string name="settings_help">help</string>
+    <string name="settings_bind">bind aliyun</string>
+    <string name="settings_setkey">set key</string>
+
+    <string name="help_message">this is help message.</string>
+    <string name="version">1.0.0</string>
 </resources>
