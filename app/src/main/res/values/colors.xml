@@ -10,5 +10,6 @@
     <color name="search_background">#F0F0F0F0</color>
     <color name="main_background">#F6F6F6F6</color>
     <color name="time_format">#FFA0A0A0</color>
+    <color name="transparent">#00000000</color>
 
 </resources>

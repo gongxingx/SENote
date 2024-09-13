@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">SENote</string>
 
+    <string name="create_new">create_new</string>
+    <string name="sync_data">sync_data</string>
     <string name="settings_upload">upload</string>
     <string name="settings_download">download</string>
     <string name="settings_help">help</string>

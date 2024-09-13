@@ -21,5 +21,6 @@
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
-    <style name="Theme.SENote" parent="Base.Theme.SENote" />
+    <style name="Theme.SENote" parent="Base.Theme.SENote" >
+    </style>
 </resources>
